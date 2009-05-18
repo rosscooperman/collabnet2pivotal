@@ -1,0 +1,6 @@
+This is a simple Ruby project to convert CollabNet project tracker artifacts (XML export) to
+Pivotal Tracker import files (CSV).
+
+http://www.csinitiative.com
+http://www.collabnet.com
+http://www.pivotaltracker.com
